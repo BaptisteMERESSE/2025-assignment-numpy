@@ -1,3 +1,4 @@
+"""Utility functions for numpy exercises."""
 import numpy as np
 
 
